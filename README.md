@@ -1,6 +1,6 @@
 # Conversor de Monedas en Java
 
-![Portada del Proyecto](/Imágenes/close-up-coins-table.jpg)
+![Portada del Proyecto](src/Imágenes/close-up-coins-table.jpg)
 
 [![Java Badge](https://img.shields.io/badge/Java-17.0.1-blue.svg)](https://www.oracle.com/java/technologies/javase-jdk17-downloads.html)
 [![Gson Badge](https://img.shields.io/badge/Gson-2.9.1-green.svg)](https://www.javadoc.io/doc/com.google.code.gson/gson/latest/com.google.gson/module-summary.html)
