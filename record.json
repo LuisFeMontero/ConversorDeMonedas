@@ -1,0 +1,23 @@
+[
+  {
+    "fromCurrency": "COP",
+    "toCurrency": "USD",
+    "amount": 30000.0,
+    "result": 7.1678999999999995,
+    "timestamp": "2024-10-07T18:20:17"
+  },
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "BRL",
+    "amount": 34000.0,
+    "result": 186425.40000000002,
+    "timestamp": "2024-10-07T18:20:39"
+  },
+  {
+    "fromCurrency": "JPY",
+    "toCurrency": "USD",
+    "amount": 4.0,
+    "result": 0.026884,
+    "timestamp": "2024-10-07T18:20:48"
+  }
+]
