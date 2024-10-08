@@ -65,7 +65,7 @@ El historial se almacena en un archivo JSON y muestra la fecha, moneda origen, m
 ## Acceso al Proyecto
 Puedes clonar este repositorio desde GitHub y ejecutar el proyecto localmente.
 
-git clone https://github.com/tu-usuario/conversor-monedas-java.git
+git clone https://github.com/LuisFeMontero/ConversorDeMonedas
 cd conversor-monedas-java
 
 ## Ejecución del proyecto:
@@ -99,4 +99,4 @@ Este proyecto ha sido desarrollado como parte de un ejercicio académico en **Or
 
 ## Licencia
 
-Este proyecto está licenciado bajo la **Licencia MIT**. Puedes ver más detalles en el archivo [LICENSE](License/LICENSE).
+Este proyecto está licenciado bajo la **Licencia MIT**. Puedes ver más detalles en el archivo [LICENSE](src/License/LICENSE).
